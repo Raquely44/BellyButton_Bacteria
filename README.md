@@ -12,4 +12,4 @@ Next, a gauge chart is displayed to the right of the horizonal bar chart. It upd
 
 Lastly, a bubble chart is displayed toward the bottom of the page. The bubble’s size correlates to the amount of the type of bacteria found in the sample.
 
-<img src="Resources/ .png" width=300>
+<img src="webpage_screenshot.png" width=400>

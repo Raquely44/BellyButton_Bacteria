@@ -1,4 +1,4 @@
-# BellyButton_Bacteria
+# Belly Button Bacteria
 A data visualization of the result of a study to determine if subjects had a specific type of bacteria found naturally occurring in their navel to be used as a key ingredient for imitation beef.
 
 Language: JavaScript</br>
